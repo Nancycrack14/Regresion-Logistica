@@ -15,6 +15,6 @@ Evaluar el desempeño del modelo, aplicando técnicas para mejorar su rendimient
 - **`RLogistica.html`**: HTML del codigo 
 - **`README.md`**: Este archivo de documentación.
 
-**[-Ver HTML](LigaMX.html)**    
-**[-Descargar jupyter notebook](LigaMX.ipynb)**  
+**[-Ver HTML](RLogistica.html)**    
+**[-Descargar jupyter notebook](RLogistica.ipynb)**  
 **[-Descargar base de datos](LigaMx2016-2023.csv)**  
