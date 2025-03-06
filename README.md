@@ -11,8 +11,8 @@ Evaluar el desempeño del modelo, aplicando técnicas para mejorar su rendimient
 - ## 📂 Archivos
 
 - **`LigaMx2016-2023.csv`**: Conjunto de datos que contiene información sobre los partidos de 2016 a 2023
-- **`LigaMX.ipynb`**: Script con el código para la regresión logística
-- **`LigaMX.html`**: HTML del codigo 
+- **`RLogistica.ipynb`**: Script con el código para la regresión logística
+- **`RLogistica.html`**: HTML del codigo 
 - **`README.md`**: Este archivo de documentación.
 
 **[-Ver HTML](LigaMX.html)**    
